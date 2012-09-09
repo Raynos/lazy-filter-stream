@@ -10,7 +10,7 @@ var odds = filter(from([1,2,3,4,5]), function (value) {
 })
 
 odds.pipe(to(list, function () {
-    // the doubled states
+    // the odd values
     assert.deepEqual(list, [1, 3, 5])
     console.log("list", list)
 }))

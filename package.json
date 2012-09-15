@@ -1,6 +1,6 @@
 {
   "name": "lazy-filter-stream",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Wrap a stream with a filtering",
   "keywords": [],
   "author": "Raynos <raynos2@gmail.com>",
@@ -17,7 +17,7 @@
     "email": "raynos2@gmail.com"
   },
   "dependencies": {
-    "proxy-stream": "~0.1.0"
+    "proxy-stream": "~0.1.1"
   },
   "devDependencies": {
     "read-stream": "~0.2.0",

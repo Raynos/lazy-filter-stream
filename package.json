@@ -1,6 +1,6 @@
 {
   "name": "lazy-filter-stream",
-  "version": "0.0.2",
+  "version": "0.1.0",
   "description": "Wrap a stream with a filtering",
   "keywords": [],
   "author": "Raynos <raynos2@gmail.com>",
